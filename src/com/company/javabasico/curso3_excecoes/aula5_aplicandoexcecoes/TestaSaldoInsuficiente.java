@@ -1,4 +1,4 @@
-package com.company.javapooalura.curso3_excecoes.aula5_aplicandoexcecoes;
+package com.company.javabasico.curso3_excecoes.aula5_aplicandoexcecoes;
 
 public class TestaSaldoInsuficiente {
     public static void main(String[] args) throws SaldoInsuficienteException {

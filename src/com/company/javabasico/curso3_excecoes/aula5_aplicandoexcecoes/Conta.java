@@ -1,4 +1,4 @@
-package com.company.javapooalura.curso3_excecoes.aula5_aplicandoexcecoes;
+package com.company.javabasico.curso3_excecoes.aula5_aplicandoexcecoes;
 
 import com.company.javapooalura.curso2_herancapolimorfinterfaces.aula4_herancaconstrutores.Cliente;
 
